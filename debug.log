@@ -1,0 +1,2 @@
+[0626/073843.961:ERROR:registration_protocol_win.cc(106)] CreateFile: 지정된 파일을 찾을 수 없습니다. (0x2)
+[0626/073844.679:ERROR:registration_protocol_win.cc(106)] CreateFile: 지정된 파일을 찾을 수 없습니다. (0x2)
